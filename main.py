@@ -34,3 +34,8 @@ print('Accuracy for DecisionTree: {}'.format(acc1))
 prediction2 = clf2.predict(X)
 acc2 = accuracy_score(Y,prediction2)*100
 print('Accuracy for DecisionTree: {}'.format(acc2))
+
+#Accuracy for DecisionTree: 100.0
+#Accuracy for DecisionTree: 100.0
+#Accuracy for DecisionTree: 72.72727272727273
+#Accuracy for DecisionTree: 54.54545454545454
